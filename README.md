@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 我是emperinter,计算机科学与技术专业学士学位在读中。emperinter由法语empreinte变换而来，刚开始特别喜欢一首小诗《痕迹》，后来查询是法国小诗，就翻译了一下，然后由于某种神奇的力量进化成emperinter!
+
+> If you wanna more About me,Please visit [https://www.emperinter.info/about/](https://www.emperinter.info/about/)
 
 <!--
 **emperinter/emperinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

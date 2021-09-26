@@ -1,7 +1,6 @@
 # Hi there 👋 I'm emperinter
 
-- 🌱 I’m currently studying at school and will stay there for less than one year! I am currently very interested in mobile development and artificial intelligence.I hope I can get a lot of funny things from these cute things!
-
+- 🌱 I’m currently working in Newland Company as a Operations and Maintenance Engineer ,Not enough happy but get some money to servive !!
 > If you wanna more About me,Please visit [https://www.emperinter.info/about/](https://www.emperinter.info/about/)
 
 # My Project

@@ -1,6 +1,6 @@
 # Hi there 👋 I'm emperinter
 
-- 🌱 I’m currently working in Newland Company as a Operations and Maintenance Engineer ,Not enough happy but get some money to servive !!
+- 🌱 I’m currently working in Newland Company as a Operations and Maintenance Engineer ,Not enough happy but get some money to survive !
 > If you wanna more About me,Please visit [https://www.emperinter.info/about/](https://www.emperinter.info/about/)
 
 # My Project

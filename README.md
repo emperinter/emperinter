@@ -1,6 +1,8 @@
 # Hi there 👋 I'm emperinter
 
 - 🌱 I’m currently working in Newland Company as a Operations and Maintenance Engineer ,Not enough happy but get some money to survive !
+- ⚡**I'm try to find a new job for Data Dealing on Python,You can contact with me If you have some jobs like that.Thx!**
+
 > If you wanna more About me,Please visit [https://www.emperinter.info/about/](https://www.emperinter.info/about/)
 
 # My Project

@@ -2,12 +2,17 @@
 
 - 🌱 I’m currently working as a background developer with Python,I hope I can make some good things !
 
-# My Project
+> 目前是一个Python后端，希望自己通过技术能够做出一下有趣的东西！
 
-- [https://money.emperinter.info/](https://money.emperinter.info/)
-- [https://wiki.emperinter.info](https://wiki.emperinter.info)
-- [https://www.emperinter.info](https://www.emperinter.info)
-- [https://history.emperinter.info](https://history.emperinter.info)
+# 我的项目 ｜ My Project
+
+- [💰 市场热点词云图 | hotmarketword ](https://www.hotmarketword.com/)
+- [⌚️ 我开发的APP ｜ Some Apps](https://app.emperinter.info/)
+- [📖 博客 ｜ MyBlog](https://www.emperinter.info)
+- [📘 历史上的今天 ｜ HistoryInToday](https://history.emperinter.info)
+- [🔥 GitHub热点项目 ｜ GitHubTrending](https://www.gtrending.top/)
+- [📚 个人wiki ｜ wiki](https://wiki.emperinter.info)
+
 
 
 <!--

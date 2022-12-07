@@ -1,6 +1,7 @@
-# Hi there 👋 I'm emperinter
+<!--# Hi there 👋 I'm emperinter-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there+!+I'm+emperinter+!)](https://git.io/typing-svg)
 
-- 🌱 I’m currently working as a background developer with Python,I hope I can make some good things !
+> 🌱 I’m currently working as a background developer with Python,I hope I can make some good things !
 
 > 目前是一个Python后端，希望自己通过技术能够做出一下有趣的东西！
 
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=emperinter)
+![emperinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=emperinter&show_icons=true&theme=radical)

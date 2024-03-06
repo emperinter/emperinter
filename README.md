@@ -7,12 +7,12 @@
 
 # 我的项目 ｜ My Project
 
-- [💰 市场热点词云图 | hotmarketword ](https://www.hotmarketword.com/)
-- [⌚️ 我开发的APP ｜ Some Apps](https://app.emperinter.info/)
+- [⌚️ 我开发的APP ｜ Some Apps](https://apps.emperinter.com/)
 - [📖 博客 ｜ MyBlog](https://www.emperinter.info)
 - [📘 历史上的今天 ｜ HistoryInToday](https://history.emperinter.info)
 - [🔥 GitHub热点项目 ｜ GitHubTrending](https://www.gtrending.top/)
 - [📚 个人wiki ｜ wiki](https://wiki.emperinter.info)
+- [💰 市场热点词云图 | hotmarketword ](https://www.hotmarketword.com/)
 
 
 
